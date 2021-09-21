@@ -47,6 +47,7 @@ export default function WeatherSearch() {
   if (display) {
     return (
       <div>
+          <h2>{city}</h2>
         {form}
         <ul>
           <li>Temperature: {temperature}°C</li>
