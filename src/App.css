@@ -24,6 +24,28 @@ div {
   border-radius: 20px;
   margin: 10px auto;
 }
+.button {
+  border-radius: 4px;
+  background-color: cadetblue;
+  color: #fff;
+  border: none;
+  padding: 5px 15px;
+  margin-left: 10px;
+}
+.button:hover {
+  cursor: pointer;
+}
+.field {
+  padding: 5px 15px;
+  border-radius: 4px;
+  border: 1px solid cadetblue;
+}
+h1 {
+  color:cadetblue;
+}
+h2 {
+  color:rgb(33, 95, 97);
+}
 ul {
   padding: 0px;
 }
@@ -35,4 +57,5 @@ span {
 }
 footer {
   max-width: 550px;
+  padding-top: 30px;
 }

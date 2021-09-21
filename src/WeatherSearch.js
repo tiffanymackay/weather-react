@@ -17,8 +17,9 @@ export default function WeatherSearch() {
         type="search"
         aria-label="Search"
         placeholder="Enter a city..."
+        className="field"
       />
-      <input type="submit" value="search" />
+      <input type="submit" value="search" className="button" />
     </form>
   );
 
