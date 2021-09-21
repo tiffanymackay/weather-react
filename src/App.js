@@ -9,8 +9,7 @@ function App() {
        <WeatherSearch />
       </header>
       <footer>
-      <p>This website is designed and coded by UX Web and Brand Designer <a href="https://www.linkedin.com/in/tiffanylmackay/" target="_blank" rel="noreferrer">Tiffany Mackay</a>, and is <a href="https://github.com/tiffanymackay/weather-react" target="_blank" rel="noreferrer">open-sourced</a>.</p>
-      <small class="text-center">© 2021 Tiffany Mackay</small>
+      <small class="text-center">This website is designed and coded by Designer <a href="https://www.linkedin.com/in/tiffanylmackay/" target="_blank" rel="noreferrer">Tiffany Mackay</a> and is <a href="https://github.com/tiffanymackay/weather-react" target="_blank" rel="noreferrer">open-sourced</a>.</small>
       </footer>
     </div>
   );
